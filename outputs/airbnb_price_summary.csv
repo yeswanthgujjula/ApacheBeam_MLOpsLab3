@@ -1,0 +1,42 @@
+{'neighbourhood_group': 'Brooklyn', 'room_type': 'Private Room', 'avg_price': 781.5, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Manhattan', 'room_type': 'Entire Home/Apt', 'avg_price': 691.29, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Manhattan', 'room_type': 'Private Room', 'avg_price': 632.01, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Brooklyn', 'room_type': 'Entire Home/Apt', 'avg_price': 620.3, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Brookln', 'room_type': 'Private Room', 'avg_price': 580.0, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Manhatan', 'room_type': 'Private Room', 'avg_price': 460.0, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Manhattan', 'room_type': 'Shared Room', 'avg_price': 577.69, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Queens', 'room_type': 'Private Room', 'avg_price': 619.47, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Staten Island', 'room_type': 'Private Room', 'avg_price': 700.46, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Bronx', 'room_type': 'Private Room', 'avg_price': 668.78, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Queens', 'room_type': 'Entire Home/Apt', 'avg_price': 634.63, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Bronx', 'room_type': 'Entire Home/Apt', 'avg_price': 677.89, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Staten Island', 'room_type': 'Entire Home/Apt', 'avg_price': 716.49, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Queens', 'room_type': 'Shared Room', 'avg_price': 776.9, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Brooklyn', 'room_type': 'Shared Room', 'avg_price': 792.73, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Bronx', 'room_type': 'Shared Room', 'avg_price': 605.76, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Harlem', 'room_type': '2019', 'avg_price': 201.0, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'East Village', 'room_type': '2005', 'avg_price': 157.33, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'Upper West Side', 'room_type': '2014', 'avg_price': 11.0, 'affordability': 'Budget'}
+{'neighbourhood_group': 'Staten Island', 'room_type': 'Shared Room', 'avg_price': 775.53, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Flushing', 'room_type': '2003', 'avg_price': 239.0, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Greenpoint', 'room_type': '2008', 'avg_price': 180.0, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'Upper West Side', 'room_type': '2012', 'avg_price': 106.0, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'East Village', 'room_type': '2004', 'avg_price': 24.0, 'affordability': 'Budget'}
+{'neighbourhood_group': 'Midwood', 'room_type': '2009', 'avg_price': 72.0, 'affordability': 'Budget'}
+{'neighbourhood_group': 'Astoria', 'room_type': '2010', 'avg_price': 195.0, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'West Village', 'room_type': '2017', 'avg_price': 36.0, 'affordability': 'Budget'}
+{'neighbourhood_group': 'Cambria Heights', 'room_type': '2011', 'avg_price': 35.0, 'affordability': 'Budget'}
+{'neighbourhood_group': 'Midtown', 'room_type': '2021', 'avg_price': 229.0, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Prospect-Lefferts Gardens', 'room_type': '2003', 'avg_price': 104.0, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'Midtown', 'room_type': '2004', 'avg_price': 149.0, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'Long Island City', 'room_type': '2006', 'avg_price': 65.0, 'affordability': 'Budget'}
+{'neighbourhood_group': 'Cypress Hills', 'room_type': '2020', 'avg_price': 146.0, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'Upper East Side', 'room_type': '2011', 'avg_price': 38.0, 'affordability': 'Budget'}
+{'neighbourhood_group': 'Harlem', 'room_type': '2004', 'avg_price': 190.0, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'East Village', 'room_type': '2003', 'avg_price': 189.0, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'Brooklyn Heights', 'room_type': '2007', 'avg_price': 139.0, 'affordability': 'Mid-range'}
+{'neighbourhood_group': 'Harlem', 'room_type': '2015', 'avg_price': 29.0, 'affordability': 'Budget'}
+{'neighbourhood_group': 'Brooklyn Heights', 'room_type': '2022', 'avg_price': 214.0, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Manhattan', 'room_type': 'Hotel Room', 'avg_price': 662.94, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Queens', 'room_type': 'Hotel Room', 'avg_price': 433.25, 'affordability': 'Luxury'}
+{'neighbourhood_group': 'Brooklyn', 'room_type': 'Hotel Room', 'avg_price': 736.12, 'affordability': 'Luxury'}
